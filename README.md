@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **HTML, CSS, NODEJS, PYHTON, JAVA, MYSQL**
 
-- 👨‍💻 All of my projects are available at **taoc-portfolio.vercel.app**
+- 👨‍💻 All of my projects are available at **taoc-portfolio.vercel.app** **m.raflioctavian6@gmail.com**
+
 
 - 📫 How to reach me **m.raflioctavian6@gmail.com**
 
