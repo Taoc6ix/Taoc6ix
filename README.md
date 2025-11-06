@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rafli Octavian</h1>
 <h3 align="center">A Passionate Mobile Developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taoc6ix" alt="taoc6ix" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taoc6ix" alt="taoc6ix" /></a> </p> -->
 
-- 🌱 I’m currently learning **KOTLIN, NODEJS, PYHTON, JAVA, TYPESCRIPT**
+- 🌱 I’m currently learning **KOTLIN, FLUTTER, NODEJS, JAVA, NEXTJS**
 
 - 👨‍💻 All of my projects are available at **https://modern-taoc-portfolio.vercel.app/**
 
