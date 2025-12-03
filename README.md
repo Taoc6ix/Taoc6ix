@@ -49,6 +49,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
   </a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taoc6ix&show_icons=true&locale=en&layout=compact" alt="taoc6ix" /></p>
