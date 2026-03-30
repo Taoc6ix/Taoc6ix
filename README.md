@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rafli Octavian</h1>
 <h3 align="center">A Passionate Mobile Developer from Indonesia</h3>
 
-- All of my projects are available at **https://modern-taoc-portfolio.vercel.app/**
+- All of my projects are available at **https://www.taoc6ix.my.id/**
 
 - 📫 How to reach me **m.raflioctavian602@gmail.com**
 
