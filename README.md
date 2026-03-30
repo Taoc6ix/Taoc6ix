@@ -26,7 +26,5 @@
 </p>
 
 <p align="left">
-  <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=taoc6ix&layout=compact&theme=radical" alt="Top Langs" />
-</p>" />
-</p>
+</p>"
