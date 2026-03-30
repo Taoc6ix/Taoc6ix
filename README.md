@@ -26,5 +26,9 @@
 </p>
 
 <p align="left">
-  <img src="![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=taoc6ix&layout=compact&theme=radical)" />
+  <p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=taoc6ix&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=taoc6ix&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=taoc6ix&layout=compact&theme=radical" alt="Top Langs" />
+</p>" />
 </p>
